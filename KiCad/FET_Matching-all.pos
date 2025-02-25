@@ -1,0 +1,19 @@
+### Footprint positions - created on 2025-02-24T21:43:58-0500 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                                 PosX       PosY       Rot  Side
+G***      LOGO        pcb_way_logo                                         10.9656    24.3900  -90.0000  bottom
+C2        100nF       C_Disc_D3.4mm_W2.1mm_P2.50mm                         16.4280    16.5968    0.0000  top
+C3        10uF        CP_Radial_D5.0mm_P2.50mm                             26.9386    18.1292    0.0000  top
+J1        Conn_01x04  PinHeader_1x04_P2.54mm_Vertical                      19.3346    39.8152   90.0000  top
+J2        Conn_01x04  PinHeader_1x04_P2.54mm_Vertical                      19.3346    34.3662   90.0000  top
+J3        Conn_01x04  PinHeader_1x04_P2.54mm_Vertical                       6.6346    39.8152   90.0000  top
+Q1        BSR56       SOT-23                                               24.8848    29.0638    0.0000  top
+Q2        BF545C      SOT-23                                               24.8848    24.1848    0.0000  top
+R1        10K         R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal     3.9144    29.9384    0.0000  top
+R2        10K         R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal     3.8168    21.6436    0.0000  top
+R3        10K         R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal    16.5328    25.8184  180.0000  top
+SW2       SW_SPST     SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm         3.8344     9.9904  -90.0000  top
+U1        TL072       DIP-8_W7.62mm                                        18.9568     6.1636   90.0000  top
+## End
